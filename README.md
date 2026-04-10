@@ -2,6 +2,17 @@
 
 Willkommen zum Probeauftrag! Du arbeitest an **LearnHub**, einer E-Learning-Plattform mit einem Quiz-Modul. Die Anwendung hat bereits grundlegende Quiz-Funktionalität — deine Aufgabe ist es, Bugs zu fixen, Tests zu schreiben und ein neues Feature zu entwickeln.
 
+## Worum es geht
+
+Bei diesem Probeauftrag geht es **nicht** darum, Experte in Laravel, Vue oder irgendeiner der eingesetzten Technologien zu sein. Es geht darum, wie du mit einem AI-Coding-Agent arbeitest:
+
+- **Nutze den Agent, um dich im Projekt zurechtzufinden.** Du landest in einer unbekannten Codebase — lass dir vom Agent erklären, wie das Projekt aufgebaut ist, welche Patterns verwendet werden und wo du ansetzen musst.
+- **Nutze den Agent, um Technologien zu verstehen.** Du kennst Laravel nicht gut genug? Kein Problem — lass dir vom Agent die relevante Dokumentation suchen und die Konzepte erklären.
+- **Nutze den Agent als Sparringspartner.** Diskutiere Lösungsansätze, lass dir Vor- und Nachteile aufzeigen, bevor du implementierst.
+- **Steuere den Prozess, nicht jede Codezeile.** Deine Aufgabe ist es, den Agent sinnvoll zu instruieren, die Ergebnisse zu prüfen und Entscheidungen zu treffen — nicht alles selbst zu tippen.
+
+Wir bewerten vor allem **deine Vorgehensweise und wie du den Agent einsetzt**, nicht ob du jede Technologie auswendig kennst.
+
 ## Tech-Stack
 
 | Technologie | Version | Verwendung |
